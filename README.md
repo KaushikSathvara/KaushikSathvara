@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisleekr&show_icons=true&theme=dark)
+![Kaushik' GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushiksathvara&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisleekr&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushiksathvara&layout=compact&theme=dark)
 
 
 <!--
