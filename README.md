@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <span class="wave">👋</span>
 
 ![Kaushik' GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushiksathvara&show_icons=true&theme=dark)
 
